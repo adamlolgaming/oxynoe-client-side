@@ -1,0 +1,9 @@
+name: "oxynoe"
+displayName: "Oxynoe-client-side"
+author: original by oxynoe, no content version by adamlol_gaming
+description: "oxynoe :>"
+version: "1"
+minGameVersion: "136"
+dependencies: [ ]
+hidden: true
+repo: "realshizi/oxynoe"
