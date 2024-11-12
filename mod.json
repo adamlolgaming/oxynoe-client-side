@@ -6,4 +6,4 @@ version: "1"
 minGameVersion: "146"
 dependencies: [ ]
 hidden: true
-repo: "realshizi/oxynoe"
+repo: "adamlolgaming/oxynoe-client-side"
